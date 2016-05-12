@@ -3,9 +3,9 @@ General Information
 	Software   :   Deblurring2016.exe
 	Version    :   1.0  01/02/2016
         3rd party  :   OpenCV
-	Author Name:   Jaylee
- 	Email      :   leejaysysu@qq.com
-	Address    :   Sysu, Guangzhou, China 
+	Author Name:   jayjayli
+ 	Email      :   abcde01369@foxmail.com
+	Address    :   SysU, Guangzhou, China 
 	Brief description :  This software can deblurred the motion blurred pictures  
         Reference article :  1. *****ready for publishing******
                              2. Deblurring Text Images via L0-Regularized Intensity and Gradient Prior
