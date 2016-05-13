@@ -9,7 +9,7 @@ General Information
 	Brief description :  This software can deblur the motion blurred pictures  
         Reference article :  1. *****ready for publishing******
                              2. Deblurring Text Images via L0-Regularized Intensity and Gradient Prior
-        Runable    :   window 7 (32 or 64 bits) or higher 
+        Runable    :   window 7 (64 bits) or higher 
 
 ------------------------------------------------------------------------------------
 Getting Started
